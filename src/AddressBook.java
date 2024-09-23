@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 public class AddressBook {
 //added comment to test changes on git hub
+    //add comment for new branch
     private ArrayList<BuddyInfo> buddies;
 
     //constructor
